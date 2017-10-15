@@ -1,5 +1,3 @@
-21:53:48
-我的手机 2017/10/15 21:53:48
 for i in range(1,10):
     for k in range(1,i):
         print(end="       ")
